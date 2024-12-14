@@ -2,4 +2,3 @@ pyrogram
 yt-dlp
 requests
 asyncio
-apt install -y ffmpeg
