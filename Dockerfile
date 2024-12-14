@@ -10,4 +10,4 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 COPY . .
 
-CMD ["python", "bot.py"]  # Замените на название вашего файла
+CMD ["python", "my_bot.py"]
