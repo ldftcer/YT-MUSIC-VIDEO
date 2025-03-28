@@ -8,7 +8,7 @@ import re
 import logging
 import asyncio
 
-# Logging configuration
+
 logging.basicConfig(level=logging.INFO)
 
 # Bot credentials
